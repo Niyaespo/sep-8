@@ -4,6 +4,10 @@
 html {
   box-sizing: border-box;
   height: 100%;
+  background-image: url("https://i.pinimg.com/originals/a7/a8/ed/a7a8ed9be95ed57f6645c580f6808e17.gif");
+  background-repeat: no-repeat; /* Prevent image repetition */
+  background-size: cover; /* Scale image to cover the entire element */
+  background-position: center center; /* Center the image */
 }
 
 html,
@@ -31,6 +35,7 @@ a, a:active, a:visited, a:hover {
 #contenedorGeneral {
   margin: auto 1em;
   text-align: center;
+  padding-top: 250px;
 }
 
 #tituloPagina {
@@ -40,6 +45,7 @@ a, a:active, a:visited, a:hover {
   font-family: "Bangers", system-ui;
   font-weight: 400;
   font-style: normal;
+  font-size: 80px;
 }
 
 #tituloPagina:hover {
@@ -60,8 +66,11 @@ a, a:active, a:visited, a:hover {
 }
 
 #boton {
-  font-size: 0.9em;
+  font-size: 2em;
   background-color:  rgb(255, 223, 12);
   color: rgb(0, 0, 0);
   cursor: pointer;
+  height: 2cm;
+  width: 5cm;
+
 }

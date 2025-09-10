@@ -1,18 +1,30 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/Dekucabeza.png",
-  "../assets/img/Todorokicabeza.png",
-  "../assets/img/Bakugocabeza.png",
+  "../SEP-8/assets/img/Dekucabezaa.png",
+  "../SEP-8/assets/img/Todorokicabezaa.png",
+  "../SEP-8/assets/img/Bakugocabezaa.png",
+  "../SEP-8/assets/img/Tenyacabeza.png",
+  "../SEP-8/assets/img/Urarakacabeza.png",
+  "../SEP-8/assets/img/Kirishimcabeza.png",
+  "../SEP-8/assets/img/asuicabeza.png",
 ];
 const listaTorsos = [
- "../assets/img/Dekutorso.png",
-  "../assets/img/Todorokitorso.png",
-  "../assets/img/Bakugotorso.png",
+ "../SEP-8/assets/img/Dekutorsoo.png",
+  "../SEP-8/assets/img/Todorokitorsoo.png",
+  "../SEP-8/assets/img/Bakugotorsoo.png",
+  "../SEP-8/assets/img/Urarakatorso.png",
+  "../SEP-8/assets/img/Tenyatorso.png",
+  "../SEP-8/assets/img/Kirishimatorso.png",
+  "../SEP-8/assets/img/asuitorso.png"
 ];
 const listaPiernas = [
-  "../assets/img/Dekupiernas.png",
-  "../assets/img/Todorokipiernas.png",
-  "../assets/img/Bakugopiernas.png",
+  "../SEP-8/assets/img/Dekupiernass.png",
+  "../SEP-8/assets/img/Todorokipiernass.png",
+  "../SEP-8/assets/img/Bakugopiernass.png",
+  "../SEP-8/assets/img/Urarakapiernas.png",
+  "../SEP-8/assets/img/Tenyapiernas.png",
+  "../SEP-8/assets/img/Kishirimpiernas.png",
+  "../SEP-8/assets/img/asuipiernas.png"
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
